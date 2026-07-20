@@ -73,3 +73,7 @@ Coding conventions, testing expectations, and git workflow are documented in [CL
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
+
+## AI Assistant in Action
+
+![Cursor AI reviewing the README](assets/cursor-readme-review.png)
